@@ -129,3 +129,32 @@ TermSocket.open: Opened 4
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[W 07:47:26.763 NotebookApp] Culling 'idle' kernel 'python3' (c7d1ad8b-03cf-4c4d-b278-da923117098b) with 1 connections due to 627 seconds of inactivity.
+[I 07:47:26.764 NotebookApp] Kernel shutdown: c7d1ad8b-03cf-4c4d-b278-da923117098b
+[W 07:55:26.763 NotebookApp] Culling 'idle' kernel 'python3' (d4dc7a72-c339-4252-a2b0-30107ce09150) with 2 connections due to 607 seconds of inactivity.
+[I 07:55:26.764 NotebookApp] Kernel shutdown: d4dc7a72-c339-4252-a2b0-30107ce09150
+[I 08:12:23.469 NotebookApp] Kernel started: b11974b7-308b-4874-83eb-01fd82898e35, name: python3
+[I 08:13:11.130 NotebookApp] Saving file at /notebooks/train_test_split/train_test_split.ipynb
+[I 08:13:28.376 NotebookApp] Kernel shutdown: b11974b7-308b-4874-83eb-01fd82898e35
+[I 08:13:29.470 NotebookApp] Kernel started: a9d2e121-c7d8-4acf-a655-8b19a5d053f9, name: python3
+[I 08:14:11.088 NotebookApp] Saving file at /data/carprices.csv
+[I 08:14:30.308 NotebookApp] Uploading file to /carprices.csv
+[I 08:15:00.108 NotebookApp] Kernel shutdown: a9d2e121-c7d8-4acf-a655-8b19a5d053f9
+[I 08:15:00.720 NotebookApp] Kernel started: 999c9098-0583-4f92-b75a-0df06ae510dd, name: python3
+[I 08:15:04.472 NotebookApp] Kernel restarted: 999c9098-0583-4f92-b75a-0df06ae510dd
+[I 08:15:04.664 NotebookApp] Starting buffering for 999c9098-0583-4f92-b75a-0df06ae510dd:993e2e7e-98cc-404d-b038-3ad9c279d3f6
+[I 08:15:04.905 NotebookApp] Restoring connection for 999c9098-0583-4f92-b75a-0df06ae510dd:993e2e7e-98cc-404d-b038-3ad9c279d3f6
+[I 08:15:12.382 NotebookApp] Saving file at /notebooks/train_test_split/train_test_split.ipynb
+[I 08:15:19.770 NotebookApp] Kernel shutdown: 999c9098-0583-4f92-b75a-0df06ae510dd
+[I 08:15:20.631 NotebookApp] Kernel started: b2deacd2-8a0a-4034-b34d-353bebbf005a, name: python3
+[I 08:15:22.506 NotebookApp] Kernel started: bf279043-fa6f-4bbf-82c6-5d5bef8daf91, name: python3
+[I 08:15:24.463 NotebookApp] Kernel shutdown: b2deacd2-8a0a-4034-b34d-353bebbf005a
+[I 08:16:34.868 NotebookApp] Uploading file to /new-workspace.jupyterlab-workspace
+Websocket closed
+[I 08:16:42.320 NotebookApp] Starting buffering for bf279043-fa6f-4bbf-82c6-5d5bef8daf91:1117efc1-e8f7-4659-aefd-31e5ac6c62df
+[I 2022-02-03 08:16:47.911 LabApp] Build is up to date
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 08:16:50.724 NotebookApp] Kernel started: 45dae7ba-7257-40a2-a594-31d9b2faa9e3, name: python3
+[I 08:16:51.899 NotebookApp] Starting buffering for 45dae7ba-7257-40a2-a594-31d9b2faa9e3:b5835b11-ce5a-4d54-82d1-e577f10ca804
