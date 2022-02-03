@@ -6,3 +6,7 @@
 
 
 **/cache
+**/ipynb_checkpoints/
+jupyter-server-log.txt
+.gitconfig
+.gitignore
