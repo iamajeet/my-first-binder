@@ -158,3 +158,60 @@ not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
 [I 08:16:50.724 NotebookApp] Kernel started: 45dae7ba-7257-40a2-a594-31d9b2faa9e3, name: python3
 [I 08:16:51.899 NotebookApp] Starting buffering for 45dae7ba-7257-40a2-a594-31d9b2faa9e3:b5835b11-ce5a-4d54-82d1-e577f10ca804
+[W 2022-02-03 08:23:03.508 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.508 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.508 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.508 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.509 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.509 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.509 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.509 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-03 08:23:03.509 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-03 08:23:03.509 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.509 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-03 08:23:03.509 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-02-03 08:23:03.531 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-02-03 08:23:03.531 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 08:23:03.551 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 08:23:03.554 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 08:23:03.556 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 08:23:03.556 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 08:23:03.556 NotebookApp] http://jupyter-iamajeet-2dmy-2dfirst-2dbinder-2dgn7nj0yt:8888/user/iamajeet-my-first-binder-gn7nj0yt/?token=...
+[I 08:23:03.556 NotebookApp]  or http://127.0.0.1:8888/user/iamajeet-my-first-binder-gn7nj0yt/?token=...
+[I 08:23:03.556 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 08:23:03.563 NotebookApp] No web browser found: could not locate runnable browser.
+[I 08:23:05.118 NotebookApp] 302 GET /user/iamajeet-my-first-binder-gn7nj0yt/ (10.244.3.16) 1.390000ms
+[I 08:23:05.994 NotebookApp] 302 GET /user/iamajeet-my-first-binder-gn7nj0yt/?token=pM4h_HF1Q82OAEulXvp6cg (165.225.124.83) 1.290000ms
+[I 08:23:06.295 NotebookApp] 301 GET /user/iamajeet-my-first-binder-gn7nj0yt/lab/?token=pM4h_HF1Q82OAEulXvp6cg (165.225.124.83) 2.760000ms
+[I 08:23:07.974 NotebookApp] 301 GET /user/iamajeet-my-first-binder-gn7nj0yt/static/favicons/favicon.ico (165.225.124.83) 1.040000ms
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 2022-02-03 08:23:17.526 LabApp] Build is up to date
+[W 08:23:18.437 NotebookApp] 404 GET /user/iamajeet-my-first-binder-gn7nj0yt/terminals/websocket/1 (165.225.124.83) 41.910000ms referer=None
+[I 08:23:18.908 NotebookApp] Kernel started: 877832ec-8279-41df-82f2-3ef109b912b7, name: python3
+[I 08:23:18.909 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 08:23:18.909 NotebookApp] Culling kernels even with connected clients
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 08:23:20.846 NotebookApp] Kernel started: 27172d85-5a1f-4e91-88c6-5538a046e601, name: python3
+[I 08:23:21.442 NotebookApp] Starting buffering for 877832ec-8279-41df-82f2-3ef109b912b7:219cab28-b666-4de1-8df9-cbda5a17c638
+[I 08:23:22.536 NotebookApp] 301 GET /user/iamajeet-my-first-binder-gn7nj0yt/static/favicons/favicon-busy-1.ico (165.225.124.83) 1.130000ms
+[I 08:25:19.941 NotebookApp] Saving file at /notebooks/train_test_split/train_test_split.ipynb
+[I 08:27:12.785 NotebookApp] Kernel restarted: 27172d85-5a1f-4e91-88c6-5538a046e601
+[I 08:27:20.769 NotebookApp] Saving file at /notebooks/train_test_split/train_test_split.ipynb
+[I 08:28:03.364 NotebookApp] Kernel restarted: 27172d85-5a1f-4e91-88c6-5538a046e601
+[I 08:28:29.827 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 08:29:22.585 NotebookApp] Saving file at /notebooks/train_test_split/train_test_split.ipynb
+[W 08:36:18.911 NotebookApp] Culling 'idle' kernel 'python3' (877832ec-8279-41df-82f2-3ef109b912b7) with 1 connections due to 615 seconds of inactivity.
+[I 08:36:18.912 NotebookApp] Kernel shutdown: 877832ec-8279-41df-82f2-3ef109b912b7
+[I 08:36:41.048 NotebookApp] Uploading file to /.gitignore
+[I 08:37:16.419 NotebookApp] Creating new file in 
+[W 08:37:29.816 NotebookApp] 409 PATCH /user/iamajeet-my-first-binder-gn7nj0yt/api/contents/untitled.txt?1643877165493 (165.225.124.83): File already exists: .gitignore
+[W 08:37:29.816 NotebookApp] File already exists: .gitignore
+[W 08:37:29.817 NotebookApp] 409 PATCH /user/iamajeet-my-first-binder-gn7nj0yt/api/contents/untitled.txt?1643877165493 (165.225.124.83) 2.290000ms referer=https://hub.mybinder.turing.ac.uk/user/iamajeet-my-first-binder-gn7nj0yt/lab
+[W 08:37:49.464 NotebookApp] delete /untitled.txt
+[W 08:39:18.911 NotebookApp] Culling 'idle' kernel 'python3' (27172d85-5a1f-4e91-88c6-5538a046e601) with 2 connections due to 647 seconds of inactivity.
+[I 08:39:18.911 NotebookApp] Kernel shutdown: 27172d85-5a1f-4e91-88c6-5538a046e601
