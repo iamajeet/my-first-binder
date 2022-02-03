@@ -218,3 +218,4 @@ TermSocket.open: Opened 1
 [I 08:42:54.626 NotebookApp] Saving file at /hello.py
 [I 08:42:55.051 NotebookApp] Saving file at /hello.py
 [I 08:43:04.696 NotebookApp] Saving file at /hello.py
+[I 08:49:34.998 NotebookApp] Saving file at /.gitignore
