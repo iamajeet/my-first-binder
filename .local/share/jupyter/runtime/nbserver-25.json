@@ -1,0 +1,12 @@
+{
+  "base_url": "/user/iamajeet-my-first-binder-lxpg46em/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 25,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "CYE_fAn2Qley6jR-w_fZ7g",
+  "url": "http://0.0.0.0:8888/user/iamajeet-my-first-binder-lxpg46em/"
+}
