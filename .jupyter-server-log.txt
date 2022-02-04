@@ -330,3 +330,67 @@ TermSocket.open: Opened 1
 [I 11:37:59.570 NotebookApp] Starting buffering for 79650535-f666-4a89-a417-e5575b9fa3fa:17904ef1-c1e5-4b11-be30-a81014ab607a
 [I 11:37:59.792 NotebookApp] Restoring connection for 79650535-f666-4a89-a417-e5575b9fa3fa:17904ef1-c1e5-4b11-be30-a81014ab607a
 [I 11:38:25.766 NotebookApp] Saving file at /ML/notebooks/train_test_split/train_test_split.ipynb
+[W 2022-02-04 11:34:11.411 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.412 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.412 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.412 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.412 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.412 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.412 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.412 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-04 11:34:11.412 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-04 11:34:11.412 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.413 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-04 11:34:11.413 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-02-04 11:34:11.430 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-02-04 11:34:11.430 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 11:34:11.449 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 11:34:11.452 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 11:34:11.452 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 11:34:11.453 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 11:34:11.453 NotebookApp] http://jupyter-iamajeet-2dmy-2dfirst-2dbinder-2dmcfh9s2h:8888/user/iamajeet-my-first-binder-mcfh9s2h/?token=...
+[I 11:34:11.453 NotebookApp]  or http://127.0.0.1:8888/user/iamajeet-my-first-binder-mcfh9s2h/?token=...
+[I 11:34:11.453 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:34:11.459 NotebookApp] No web browser found: could not locate runnable browser.
+[I 11:34:11.462 NotebookApp] 302 GET /user/iamajeet-my-first-binder-mcfh9s2h/ (10.0.142.14) 1.120000ms
+[I 11:34:12.628 NotebookApp] 302 GET /user/iamajeet-my-first-binder-mcfh9s2h/?token=B7rR0KFhQcC_4jtJ00FIbA (165.225.124.83) 0.770000ms
+[I 11:34:13.006 NotebookApp] 301 GET /user/iamajeet-my-first-binder-mcfh9s2h/lab/?token=B7rR0KFhQcC_4jtJ00FIbA (165.225.124.83) 1.460000ms
+[I 11:34:15.286 NotebookApp] 301 GET /user/iamajeet-my-first-binder-mcfh9s2h/static/favicons/favicon.ico (165.225.124.83) 0.940000ms
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 2022-02-04 11:34:28.240 LabApp] Build is up to date
+[W 11:34:29.365 NotebookApp] 404 GET /user/iamajeet-my-first-binder-mcfh9s2h/terminals/websocket/1 (165.225.124.83) 51.470000ms referer=None
+[W 11:34:29.989 NotebookApp] 404 GET /user/iamajeet-my-first-binder-mcfh9s2h/terminals/websocket/1 (165.225.124.83) 1.870000ms referer=None
+[I 11:34:32.755 NotebookApp] Kernel started: 841a2d9d-4d96-4f0e-a89d-bbc430187efb, name: python3
+[I 11:34:32.755 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 11:34:32.755 NotebookApp] Culling kernels even with connected clients
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 11:34:34.910 NotebookApp] 301 GET /user/iamajeet-my-first-binder-mcfh9s2h/static/favicons/favicon-busy-1.ico (165.225.124.83) 1.740000ms
+[I 11:34:45.520 NotebookApp] Uploading file to /data/HR_comma_sep.csv
+[I 11:35:21.661 NotebookApp] Creating new directory in /ML/notebooks
+[I 11:35:46.668 NotebookApp] Creating new notebook in /ML/notebooks/logistic_regression
+[I 11:35:48.536 NotebookApp] Kernel started: 4522d1fd-a7e1-4d8e-80f4-a31406a80cc5, name: python3
+[I 11:37:48.143 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:39:49.972 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:41:52.111 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:43:55.048 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:45:56.980 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:47:57.933 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[W 11:49:32.756 NotebookApp] Culling 'idle' kernel 'python3' (841a2d9d-4d96-4f0e-a89d-bbc430187efb) with 1 connections due to 652 seconds of inactivity.
+[I 11:49:32.757 NotebookApp] Kernel shutdown: 841a2d9d-4d96-4f0e-a89d-bbc430187efb
+[I 11:50:00.017 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:52:02.426 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:54:04.727 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:56:07.411 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 11:58:10.488 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:00:11.897 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:02:14.596 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:04:15.907 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:06:17.599 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:08:20.695 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:09:24.318 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:09:39.274 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
