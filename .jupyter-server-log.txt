@@ -394,3 +394,26 @@ TermSocket.open: Opened 1
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[W 12:20:32.757 NotebookApp] Culling 'idle' kernel 'python3' (4522d1fd-a7e1-4d8e-80f4-a31406a80cc5) with 1 connections due to 651 seconds of inactivity.
+[I 12:20:32.758 NotebookApp] Kernel shutdown: 4522d1fd-a7e1-4d8e-80f4-a31406a80cc5
+[I 12:36:11.704 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:36:38.656 NotebookApp] Kernel started: 41464e54-9b62-4bc6-aaeb-a4aaaa28583e, name: python3
+[I 12:36:58.428 NotebookApp] Kernel restarted: 41464e54-9b62-4bc6-aaeb-a4aaaa28583e
+[I 12:36:58.785 NotebookApp] Starting buffering for 41464e54-9b62-4bc6-aaeb-a4aaaa28583e:e32cc81b-e2ca-4551-8e1b-0b4e3db7901d
+[I 12:36:59.562 NotebookApp] Restoring connection for 41464e54-9b62-4bc6-aaeb-a4aaaa28583e:e32cc81b-e2ca-4551-8e1b-0b4e3db7901d
+[I 12:36:59.569 NotebookApp] Replaying 3 buffered messages
+[I 12:38:14.751 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:40:16.461 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:42:19.210 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:44:21.967 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:46:24.771 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:46:56.522 NotebookApp] Kernel restarted: 41464e54-9b62-4bc6-aaeb-a4aaaa28583e
+[I 12:46:56.815 NotebookApp] Starting buffering for 41464e54-9b62-4bc6-aaeb-a4aaaa28583e:e32cc81b-e2ca-4551-8e1b-0b4e3db7901d
+[I 12:46:57.115 NotebookApp] Restoring connection for 41464e54-9b62-4bc6-aaeb-a4aaaa28583e:e32cc81b-e2ca-4551-8e1b-0b4e3db7901d
+[I 12:47:53.488 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:47:59.766 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:48:47.424 NotebookApp] Kernel restarted: 41464e54-9b62-4bc6-aaeb-a4aaaa28583e
+[I 12:48:47.718 NotebookApp] Starting buffering for 41464e54-9b62-4bc6-aaeb-a4aaaa28583e:e32cc81b-e2ca-4551-8e1b-0b4e3db7901d
+[I 12:48:47.943 NotebookApp] Restoring connection for 41464e54-9b62-4bc6-aaeb-a4aaaa28583e:e32cc81b-e2ca-4551-8e1b-0b4e3db7901d
+[I 12:49:33.902 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
+[I 12:49:36.713 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
