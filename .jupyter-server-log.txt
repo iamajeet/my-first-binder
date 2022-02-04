@@ -418,3 +418,36 @@ TermSocket.open: Opened 1
 [I 12:49:33.902 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
 [I 12:49:36.713 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
 [I 12:57:17.407 NotebookApp] Saving file at /new-workspace.jupyterlab-workspace
+[I 13:00:34.221 NotebookApp] Uploading file to /python/Python_NB.ipynb
+[I 13:00:34.522 NotebookApp] Uploading file to /python/Numpy_NB.ipynb
+[I 13:00:36.223 NotebookApp] Uploading file to /python/Pandas_NB.ipynb
+[I 13:00:36.841 NotebookApp] Uploading file to /python/Untitled2.png
+[W 13:00:43.829 NotebookApp] Notebook python/Python_NB.ipynb is not trusted
+[I 13:00:46.252 NotebookApp] Kernel started: 9cf44a51-d7a4-446c-bdc8-06001a5aa1e1, name: python3
+[I 13:00:55.202 NotebookApp] Kernel restarted: 9cf44a51-d7a4-446c-bdc8-06001a5aa1e1
+[I 13:00:55.512 NotebookApp] Starting buffering for 9cf44a51-d7a4-446c-bdc8-06001a5aa1e1:7765aa1c-1488-485a-9f64-ffbbec701dfd
+[I 13:00:55.756 NotebookApp] Restoring connection for 9cf44a51-d7a4-446c-bdc8-06001a5aa1e1:7765aa1c-1488-485a-9f64-ffbbec701dfd
+[I 13:02:32.753 NotebookApp] Saving file at /python/Python_NB.ipynb
+[I 13:02:37.554 NotebookApp] Saving file at /python/Python_NB.ipynb
+[I 13:02:42.243 NotebookApp] Starting buffering for 9cf44a51-d7a4-446c-bdc8-06001a5aa1e1:7765aa1c-1488-485a-9f64-ffbbec701dfd
+[W 13:02:47.189 NotebookApp] Notebook python/Numpy_NB.ipynb is not trusted
+[I 13:02:54.095 NotebookApp] Kernel started: 54a474e7-839c-4f74-8744-5dedb55e3401, name: python3
+[I 13:03:40.078 NotebookApp] Saving file at /python/Numpy_NB.ipynb
+[W 13:03:40.080 NotebookApp] Notebook python/Numpy_NB.ipynb is not trusted
+[W 13:03:46.093 NotebookApp] Notebook python/Pandas_NB.ipynb is not trusted
+[W 13:03:49.706 NotebookApp] 404 GET /user/iamajeet-my-first-binder-mcfh9s2h/files/python/Untitled.png?_xsrf=2%7C86366163%7Cc991580992af90ebf88b6948abebce62%7C1643196196&1643979544251 (165.225.124.83) 9.320000ms referer=https://hub.gke2.mybinder.org/user/iamajeet-my-first-binder-mcfh9s2h/lab/tree/python/Pandas_NB.ipynb
+[I 13:03:54.925 NotebookApp] Kernel started: 55372704-27c6-45a5-97fc-0f1068db8778, name: python3
+[I 13:05:25.997 NotebookApp] Kernel restarted: 54a474e7-839c-4f74-8744-5dedb55e3401
+[I 13:05:26.300 NotebookApp] Starting buffering for 54a474e7-839c-4f74-8744-5dedb55e3401:dbac890b-e090-429b-8601-3fff319eafc0
+[I 13:05:26.547 NotebookApp] Restoring connection for 54a474e7-839c-4f74-8744-5dedb55e3401:dbac890b-e090-429b-8601-3fff319eafc0
+[I 13:05:41.770 NotebookApp] Saving file at /python/Numpy_NB.ipynb
+[I 13:05:53.052 NotebookApp] Saving file at /python/Pandas_NB.ipynb
+[W 13:05:53.055 NotebookApp] Notebook python/Pandas_NB.ipynb is not trusted
+[I 13:06:00.806 NotebookApp] Saving file at /python/Pandas_NB.ipynb
+[W 13:06:00.808 NotebookApp] Notebook python/Pandas_NB.ipynb is not trusted
+[I 13:06:08.594 NotebookApp] Saving file at /python/Pandas_NB.ipynb
+[W 13:06:08.596 NotebookApp] Notebook python/Pandas_NB.ipynb is not trusted
+[I 13:06:24.013 NotebookApp] Kernel shutdown: 54a474e7-839c-4f74-8744-5dedb55e3401
+[I 13:06:24.027 NotebookApp] Kernel shutdown: 9cf44a51-d7a4-446c-bdc8-06001a5aa1e1
+[I 13:06:24.030 NotebookApp] Kernel shutdown: 41464e54-9b62-4bc6-aaeb-a4aaaa28583e
+[I 13:06:24.601 NotebookApp] Kernel shutdown: 55372704-27c6-45a5-97fc-0f1068db8778
