@@ -18,7 +18,7 @@ My jupytor notebooks on machine learning and data analysis
 * *Petal Length*  
 * *Petal Width*  
 
-#### (Binary) To Predict employee retention  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Flogistic_regression%2Flogistic_regression.ipynb)
+#### (Binary) To Predict employee retention  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Flogistic_regression_binary%2Flogistic_regression.ipynb)
 *To figure out which variables have direct and clear impact on employee retention (i.e. whether they leave the company or continue to work)*
 
  
