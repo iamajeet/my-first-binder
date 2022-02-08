@@ -711,3 +711,22 @@ TermSocket.open: Opened 1
 [I 10:22:46.184 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
 [W 10:23:57.884 NotebookApp] Culling 'idle' kernel 'python3' (019f582a-ffe0-4d57-89a4-b400ec471516) with 0 connections due to 610 seconds of inactivity.
 [I 10:23:57.885 NotebookApp] Kernel shutdown: 019f582a-ffe0-4d57-89a4-b400ec471516
+[W 10:24:57.885 NotebookApp] Culling 'idle' kernel 'python3' (cc0967e0-4b58-4167-86e4-7f488ff6e2df) with 1 connections due to 653 seconds of inactivity.
+[I 10:24:57.885 NotebookApp] Kernel shutdown: cc0967e0-4b58-4167-86e4-7f488ff6e2df
+[I 10:25:45.094 NotebookApp] Kernel started: d65a488a-7be1-441a-9c04-80277befcbc2, name: python3
+[I 10:26:47.487 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:28:50.901 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:30:53.838 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:32:56.846 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:34:59.626 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:37:02.110 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:39:04.527 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:41:07.460 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:43:10.502 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:45:12.079 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:47:13.648 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:48:54.385 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 10:50:00.668 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[W 10:51:57.884 NotebookApp] Culling 'idle' kernel 'python3' (d65a488a-7be1-441a-9c04-80277befcbc2) with 1 connections due to 620 seconds of inactivity.
+[I 10:51:57.885 NotebookApp] Kernel shutdown: d65a488a-7be1-441a-9c04-80277befcbc2
+[I 10:52:03.110 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
