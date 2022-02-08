@@ -736,3 +736,4 @@ TermSocket.open: Opened 1
 [I 11:05:57.885 NotebookApp] Kernel shutdown: 998410a4-174e-437f-a009-0bd4d6668ab6
 [I 11:06:48.157 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
 [I 11:09:46.915 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
+[I 11:17:15.482 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
