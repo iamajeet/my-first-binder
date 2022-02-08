@@ -1,0 +1,12 @@
+git status
+git add --all
+git commit -m 'message'
+git pull 
+git push
+
+
+
+
+
+PAT less access 
+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
