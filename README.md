@@ -3,4 +3,4 @@
 
 
 
-![alt text](https://github.com/iamajeet/my-first-binder/blob/master/canada_pci.png?raw=true)
+![alt text](https://raw.githubusercontent.com/iamajeet/my-first-binder/main/data/canada_pci.png)
