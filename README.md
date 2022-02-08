@@ -1,4 +1,3 @@
-[//]: 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
 # Machine Learning and Data Analysis
 My jupytor notebooks on machine learning and data analysis
 
