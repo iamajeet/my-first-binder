@@ -834,3 +834,6 @@ TermSocket.open: Opened 1
 [I 13:13:23.632 NotebookApp] Restoring connection for 5b8af0af-5221-4a13-b645-15174803ed52:12e93fae-3e5a-41ed-ae36-a1d3298f86d5
 [I 13:14:11.994 NotebookApp] Saving file at /requirements.txt
 [I 13:14:20.993 NotebookApp] Saving file at /ML/notebooks/logistic_regression_multiclass/logistic_regression_multiclass.ipynb
+[I 13:22:22.605 NotebookApp] Saving file at /ML/notebooks/logistic_regression_multiclass/logistic_regression_multiclass.ipynb
+[W 13:22:25.357 NotebookApp] Culling 'idle' kernel 'python3' (7a87ed76-ba6c-47f3-bd87-2758cea3b7d1) with 0 connections due to 603 seconds of inactivity.
+[I 13:22:25.358 NotebookApp] Kernel shutdown: 7a87ed76-ba6c-47f3-bd87-2758cea3b7d1
