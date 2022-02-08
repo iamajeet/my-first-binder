@@ -596,3 +596,5 @@ not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 2
 [I 08:08:52.324 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
 [I 08:08:59.838 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:09:52.734 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:10:05.407 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
