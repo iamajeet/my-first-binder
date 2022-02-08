@@ -635,3 +635,5 @@ TermSocket.open: Opened 2
 [W 08:58:10.415 NotebookApp] delete /data/PAT.txt
 [I 09:00:28.727 NotebookApp] Saving file at /README.md
 [I 09:00:29.099 NotebookApp] Saving file at /README.md
+[I 09:15:09.610 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 09:21:00.408 NotebookApp] Saving file at /ML/notebooks/logistic_regression/logistic_regression.ipynb
