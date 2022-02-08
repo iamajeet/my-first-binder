@@ -737,3 +737,4 @@ TermSocket.open: Opened 1
 [I 11:06:48.157 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
 [I 11:09:46.915 NotebookApp] Saving file at /ML/notebooks/linear_regression_multivariate/linear_regression_multivariate.ipynb
 [I 11:17:15.482 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 11:19:17.874 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
