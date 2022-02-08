@@ -610,3 +610,10 @@ TermSocket.open: Opened 2
 [I 08:38:36.816 NotebookApp] Saving file at /data/PAT.txt
 [I 08:38:36.910 NotebookApp] Saving file at /data/PAT.txt
 [I 08:38:37.164 NotebookApp] Saving file at /data/PAT.txt
+[I 08:39:28.409 NotebookApp] 302 GET /user/iamajeet-my-first-binder-267npwoj/lab/tree/data/canada_pci.png (140.82.115.111) 30.580000ms
+[I 08:39:33.187 NotebookApp] 302 GET /user/iamajeet-my-first-binder-267npwoj/lab/tree/data/canada_pci.png (140.82.115.106) 28.520000ms
+[W 08:40:38.947 NotebookApp] Culling 'idle' kernel 'python3' (1e6ce187-16f1-4c22-9855-ec87e86a0b89) with 1 connections due to 635 seconds of inactivity.
+[I 08:40:38.960 NotebookApp] Kernel shutdown: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 08:44:25.039 NotebookApp] Saving file at /data/PAT.txt
+[I 08:44:25.324 NotebookApp] Saving file at /data/PAT.txt
+[I 08:44:26.011 NotebookApp] Saving file at /data/PAT.txt
