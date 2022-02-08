@@ -632,3 +632,6 @@ TermSocket.open: Opened 2
 [I 08:54:25.017 NotebookApp] Saving file at /README.md
 [I 08:54:26.408 NotebookApp] Saving file at /README.md
 [I 08:54:27.018 NotebookApp] Saving file at /README.md
+[W 08:58:10.415 NotebookApp] delete /data/PAT.txt
+[I 09:00:28.727 NotebookApp] Saving file at /README.md
+[I 09:00:29.099 NotebookApp] Saving file at /README.md
