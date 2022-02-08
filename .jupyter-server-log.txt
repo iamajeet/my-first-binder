@@ -522,3 +522,75 @@ TermSocket.open: Opened 1
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[I 06:57:03.528 NotebookApp] Starting buffering for 6527d182-1ba7-4080-9b38-346ade130635:f344bfb2-8c2d-4093-a785-bea33bb45fc2
+[W 07:04:38.942 NotebookApp] Culling 'idle' kernel 'python3' (43654d0a-4962-4866-8964-339d35093a7e) with 0 connections due to 653 seconds of inactivity.
+[I 07:04:38.944 NotebookApp] Kernel shutdown: 43654d0a-4962-4866-8964-339d35093a7e
+[I 07:06:30.848 NotebookApp] Starting buffering for dea5513f-2a61-4da7-9a8f-7cba9bf0d5c1:f70541ac-4448-4b43-955d-9b344b957b12
+[W 07:07:38.942 NotebookApp] Culling 'idle' kernel 'python3' (6527d182-1ba7-4080-9b38-346ade130635) with 0 connections due to 636 seconds of inactivity.
+[I 07:07:38.943 NotebookApp] Kernel shutdown: 6527d182-1ba7-4080-9b38-346ade130635
+[I 07:10:53.363 NotebookApp] Creating new directory in /ML/notebooks
+[I 07:11:35.322 NotebookApp] Creating new notebook in /ML/notebooks/simple_linear_regression
+[I 07:11:38.162 NotebookApp] Kernel started: 1e6ce187-16f1-4c22-9855-ec87e86a0b89, name: python3
+[I 07:13:37.907 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:15:19.903 NotebookApp] Uploading file to /ML/notebooks/simple_linear_regression/canada_per_capita_income.csv
+[I 07:15:38.671 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:16:16.302 NotebookApp] Kernel started: e828baa9-8fac-4189-9277-53566f97ad27, name: python3
+[W 07:16:38.943 NotebookApp] Culling 'idle' kernel 'python3' (dea5513f-2a61-4da7-9a8f-7cba9bf0d5c1) with 0 connections due to 608 seconds of inactivity.
+[I 07:16:38.944 NotebookApp] Kernel shutdown: dea5513f-2a61-4da7-9a8f-7cba9bf0d5c1
+[I 07:16:46.172 NotebookApp] Uploading file to /ML/notebooks/logistic_regression/canada_per_capita_income.csv
+[I 07:17:39.322 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:21:40.000 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:23:40.934 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:25:42.266 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:25:51.467 NotebookApp] Kernel restarted: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 07:25:51.791 NotebookApp] Starting buffering for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:25:52.669 NotebookApp] Restoring connection for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:25:52.677 NotebookApp] Replaying 2 buffered messages
+[I 07:27:16.194 NotebookApp] Kernel restarted: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 07:27:16.502 NotebookApp] Starting buffering for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:27:16.726 NotebookApp] Restoring connection for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:27:43.807 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:29:42.593 NotebookApp] Kernel restarted: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 07:29:42.906 NotebookApp] Starting buffering for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:29:43.715 NotebookApp] Restoring connection for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:29:43.720 NotebookApp] Replaying 2 buffered messages
+[I 07:29:44.494 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:31:46.223 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[W 07:32:38.946 NotebookApp] Culling 'idle' kernel 'python3' (e828baa9-8fac-4189-9277-53566f97ad27) with 1 connections due to 637 seconds of inactivity.
+[I 07:32:38.999 NotebookApp] Kernel shutdown: e828baa9-8fac-4189-9277-53566f97ad27
+[I 07:33:47.328 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:39:48.815 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:40:54.141 NotebookApp] Kernel restarted: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 07:40:54.515 NotebookApp] Starting buffering for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:40:54.725 NotebookApp] Restoring connection for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:41:50.539 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:43:51.718 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:45:52.828 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:47:00.914 NotebookApp] Kernel restarted: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 07:47:01.222 NotebookApp] Starting buffering for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:47:01.509 NotebookApp] Restoring connection for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:47:54.818 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:47:55.148 NotebookApp] Kernel restarted: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 07:47:55.499 NotebookApp] Starting buffering for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:47:55.721 NotebookApp] Restoring connection for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:48:37.914 NotebookApp] Kernel restarted: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 07:48:38.318 NotebookApp] Starting buffering for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:48:38.530 NotebookApp] Restoring connection for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:49:55.932 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:51:42.631 NotebookApp] Kernel restarted: 1e6ce187-16f1-4c22-9855-ec87e86a0b89
+[I 07:51:42.945 NotebookApp] Starting buffering for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:51:43.926 NotebookApp] Restoring connection for 1e6ce187-16f1-4c22-9855-ec87e86a0b89:3a4ebea8-e3ad-481b-b5cf-7d730711c323
+[I 07:51:56.815 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:53:58.426 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:56:00.913 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 07:58:02.312 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:00:43.318 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:00:58.012 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:01:03.114 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:02:39.111 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:02:41.205 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:02:50.125 NotebookApp] Saving file at /ML/notebooks/simple_linear_regression/simple_linear_regression.ipynb
+[I 08:03:10.024 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
