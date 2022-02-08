@@ -812,3 +812,25 @@ TermSocket.open: Opened 1
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[I 12:47:04.086 NotebookApp] Saving file at /ML/notebooks/logistic_regression_multiclass/logistic_regression_multiclass.ipynb
+[W 12:58:25.357 NotebookApp] Culling 'idle' kernel 'python3' (387a96fb-e7a3-4ac0-a659-2c7d4afbf783) with 1 connections due to 631 seconds of inactivity.
+[I 12:58:25.358 NotebookApp] Kernel shutdown: 387a96fb-e7a3-4ac0-a659-2c7d4afbf783
+[I 13:06:38.250 NotebookApp] Kernel started: 5b8af0af-5221-4a13-b645-15174803ed52, name: python3
+[I 13:07:12.375 NotebookApp] Saving file at /ML/notebooks/logistic_regression_multiclass/logistic_regression_multiclass.ipynb
+[I 13:09:14.263 NotebookApp] Saving file at /ML/notebooks/logistic_regression_multiclass/logistic_regression_multiclass.ipynb
+[I 13:10:25.785 NotebookApp] Kernel restarted: 5b8af0af-5221-4a13-b645-15174803ed52
+[I 13:10:26.090 NotebookApp] Starting buffering for 5b8af0af-5221-4a13-b645-15174803ed52:12e93fae-3e5a-41ed-ae36-a1d3298f86d5
+[I 13:10:26.976 NotebookApp] Restoring connection for 5b8af0af-5221-4a13-b645-15174803ed52:12e93fae-3e5a-41ed-ae36-a1d3298f86d5
+[I 13:10:26.981 NotebookApp] Replaying 3 buffered messages
+[I 13:11:15.240 NotebookApp] Saving file at /ML/notebooks/logistic_regression_multiclass/logistic_regression_multiclass.ipynb
+[I 13:12:10.159 NotebookApp] Kernel started: 7a87ed76-ba6c-47f3-bd87-2758cea3b7d1, name: python3
+[I 13:12:26.857 NotebookApp] Starting buffering for 7a87ed76-ba6c-47f3-bd87-2758cea3b7d1:4e691a14-6f6a-4070-b695-3036608200a7
+[I 13:12:36.127 NotebookApp] Kernel restarted: 5b8af0af-5221-4a13-b645-15174803ed52
+[I 13:12:36.435 NotebookApp] Starting buffering for 5b8af0af-5221-4a13-b645-15174803ed52:12e93fae-3e5a-41ed-ae36-a1d3298f86d5
+[I 13:12:36.679 NotebookApp] Restoring connection for 5b8af0af-5221-4a13-b645-15174803ed52:12e93fae-3e5a-41ed-ae36-a1d3298f86d5
+[I 13:13:16.593 NotebookApp] Saving file at /ML/notebooks/logistic_regression_multiclass/logistic_regression_multiclass.ipynb
+[I 13:13:23.025 NotebookApp] Kernel restarted: 5b8af0af-5221-4a13-b645-15174803ed52
+[I 13:13:23.325 NotebookApp] Starting buffering for 5b8af0af-5221-4a13-b645-15174803ed52:12e93fae-3e5a-41ed-ae36-a1d3298f86d5
+[I 13:13:23.632 NotebookApp] Restoring connection for 5b8af0af-5221-4a13-b645-15174803ed52:12e93fae-3e5a-41ed-ae36-a1d3298f86d5
+[I 13:14:11.994 NotebookApp] Saving file at /requirements.txt
+[I 13:14:20.993 NotebookApp] Saving file at /ML/notebooks/logistic_regression_multiclass/logistic_regression_multiclass.ipynb
