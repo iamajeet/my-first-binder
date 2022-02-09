@@ -19,7 +19,14 @@ My jupytor notebooks on machine learning and data analysis
 * *Petal Width*  
 
 #### (Binary) To Predict employee retention  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Flogistic_regression_binary%2Flogistic_regression.ipynb)
-*To figure out which variables have direct and clear impact on employee retention (i.e. whether they leave the company or continue to work)*
+*To figure out which variables have direct and clear impact on employee retention (i.e. whether they leave the company or continue to work)*  
+
+## By using Decision Tree model  
+####  To predict survival possibilities of Titanic crash based on certain parameters.  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Fdecision_tree%2Fdecision_tree.ipynb)  
+* *Pclass*
+* *Sex*
+* *Age*
+* *Fare*
 
  
     
