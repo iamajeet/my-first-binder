@@ -2,8 +2,8 @@
 My jupytor notebooks on machine learning and data analysis
 
 ## By using Linear Regression model  
-####  To Predict per capita income of CANADA in 2023.  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Fsimple_linear_regression%2Fsimple_linear_regression.ipynb)  
-####  To Predict salaries for following candidates.  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Flinear_regression_multivariate%2Flinear_regression_multivariate.ipynb)
+####  (Single independent variable) To Predict per capita income of CANADA in 2023.  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Fsimple_linear_regression%2Fsimple_linear_regression.ipynb)  
+####  (Multiple independent variable) To Predict salaries for following candidates.  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Flinear_regression_multivariate%2Flinear_regression_multivariate.ipynb)
 *__2__ yr experience, **9** test score, **6** interview score*   
 *__12__ yr experience, **10** test score, **10** interview score*
 
