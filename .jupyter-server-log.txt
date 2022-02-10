@@ -1000,3 +1000,41 @@ TermSocket.open: Opened 1
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[I 12:36:58.273 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:36:58.578 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:36:58.890 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:37:40.080 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:38:21.877 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:38:22.168 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:38:22.992 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:38:23.001 NotebookApp] Replaying 3 buffered messages
+[I 12:39:42.185 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:40:07.928 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:40:08.221 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:40:08.988 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:41:02.172 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:41:02.490 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:41:02.736 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:41:33.991 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:41:34.293 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:41:34.517 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:41:44.542 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:42:06.994 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:42:07.316 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:42:07.532 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:43:03.949 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:43:04.251 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:43:04.546 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:43:42.956 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:43:43.247 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:43:43.510 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:43:46.609 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:44:16.521 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:44:16.813 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:44:17.077 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:44:42.027 NotebookApp] Kernel restarted: 7826f471-befa-48b6-b937-9c95a10ff669
+[I 12:44:42.337 NotebookApp] Starting buffering for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:44:42.551 NotebookApp] Restoring connection for 7826f471-befa-48b6-b937-9c95a10ff669:65407371-bf99-4aa7-964c-6740f5f3ba1b
+[I 12:45:48.971 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:47:51.402 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:48:15.483 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
