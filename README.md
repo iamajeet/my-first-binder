@@ -27,6 +27,11 @@ My jupytor notebooks on machine learning and data analysis
 * *Sex*
 * *Age*
 * *Fare*
+## By using Support Vector Machine model 
+#### Train SVM classifier using sklearn digits dataset (i.e. from sklearn.datasets import load_digits) and then... [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Fsvm%2Fsvm.ipynb)  
+* Measure accuracy of your model using different kernels such as rbf and linear.
+* Tune your model further using regularization and gamma parameters and try to come up with highest accurancy score
+* Use 80% of samples as training data size
 
  
     
