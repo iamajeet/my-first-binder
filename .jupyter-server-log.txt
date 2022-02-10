@@ -926,3 +926,77 @@ TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
 [I 04:29:06.915 NotebookApp] Saving file at /ML/notebooks/decision_tree/decision_tree.ipynb
+[W 2022-02-10 11:55:40.389 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.389 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.389 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.389 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.389 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.389 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.389 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.389 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-10 11:55:40.389 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-10 11:55:40.389 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.389 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-10 11:55:40.390 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-02-10 11:55:40.401 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-02-10 11:55:40.401 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 11:55:40.414 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 11:55:40.417 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 11:55:40.418 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 11:55:40.418 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 11:55:40.418 NotebookApp] http://jupyter-iamajeet-2dmy-2dfirst-2dbinder-2dmgnefzr4:8888/user/iamajeet-my-first-binder-mgnefzr4/?token=...
+[I 11:55:40.418 NotebookApp]  or http://127.0.0.1:8888/user/iamajeet-my-first-binder-mgnefzr4/?token=...
+[I 11:55:40.418 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:55:40.423 NotebookApp] No web browser found: could not locate runnable browser.
+[I 11:55:40.426 NotebookApp] 302 GET /user/iamajeet-my-first-binder-mgnefzr4/ (10.0.142.14) 1.190000ms
+[I 11:55:41.605 NotebookApp] 302 GET /user/iamajeet-my-first-binder-mgnefzr4/?token=ky6jsuvIREqLJatz6NESfw (165.225.124.102) 1.070000ms
+[I 11:55:41.912 NotebookApp] 301 GET /user/iamajeet-my-first-binder-mgnefzr4/lab/?token=ky6jsuvIREqLJatz6NESfw (165.225.124.102) 2.300000ms
+[I 11:55:44.022 NotebookApp] 301 GET /user/iamajeet-my-first-binder-mgnefzr4/static/favicons/favicon.ico (165.225.124.102) 0.760000ms
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 2022-02-10 11:55:56.109 LabApp] Build is up to date
+[I 11:56:43.095 NotebookApp] Kernel started: b91ce2bd-7370-481a-9376-7c78ae54ef97, name: python3
+[I 11:56:43.096 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 11:56:43.096 NotebookApp] Culling kernels even with connected clients
+[I 11:56:43.193 NotebookApp] Kernel started: 1e51370a-8d96-4438-b81e-997ef4dd694f, name: python3
+[I 11:56:43.197 NotebookApp] Kernel started: 9ee310f7-0571-4972-8a76-16253bd72b8d, name: python3
+[I 11:56:43.201 NotebookApp] Kernel started: 6e5561f1-0755-414c-8e72-1f02f809064d, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 11:56:47.996 NotebookApp] Starting buffering for 6e5561f1-0755-414c-8e72-1f02f809064d:b6f5dc2a-459e-43ad-a4a9-9763c0683ce4
+[I 11:56:49.069 NotebookApp] 301 GET /user/iamajeet-my-first-binder-mgnefzr4/static/favicons/favicon-busy-1.ico (165.225.124.102) 1.020000ms
+[I 11:56:52.048 NotebookApp] Creating new directory in /ML/notebooks
+[I 11:57:07.492 NotebookApp] Creating new notebook in /ML/notebooks/svm
+[I 11:57:09.187 NotebookApp] Kernel started: 7826f471-befa-48b6-b937-9c95a10ff669, name: python3
+[I 11:59:08.816 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:01:10.553 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:03:12.596 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:05:14.684 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:07:15.599 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[W 12:07:43.098 NotebookApp] Culling 'idle' kernel 'python3' (1e51370a-8d96-4438-b81e-997ef4dd694f) with 1 connections due to 652 seconds of inactivity.
+[I 12:07:43.098 NotebookApp] Kernel shutdown: 1e51370a-8d96-4438-b81e-997ef4dd694f
+[W 12:07:43.313 NotebookApp] Culling 'idle' kernel 'python3' (9ee310f7-0571-4972-8a76-16253bd72b8d) with 1 connections due to 624 seconds of inactivity.
+[I 12:07:43.313 NotebookApp] Kernel shutdown: 9ee310f7-0571-4972-8a76-16253bd72b8d
+[I 12:09:17.073 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:13:19.096 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:15:21.134 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:17:23.513 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[W 12:17:43.097 NotebookApp] Culling 'idle' kernel 'python3' (b91ce2bd-7370-481a-9376-7c78ae54ef97) with 1 connections due to 641 seconds of inactivity.
+[I 12:17:43.098 NotebookApp] Kernel shutdown: b91ce2bd-7370-481a-9376-7c78ae54ef97
+[W 12:17:43.312 NotebookApp] Culling 'idle' kernel 'python3' (6e5561f1-0755-414c-8e72-1f02f809064d) with 2 connections due to 639 seconds of inactivity.
+[I 12:17:43.313 NotebookApp] Kernel shutdown: 6e5561f1-0755-414c-8e72-1f02f809064d
+[I 12:19:24.474 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:20:14.301 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:22:17.108 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:24:20.256 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:26:21.578 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:26:23.148 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:26:28.174 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:26:28.586 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:26:50.882 NotebookApp] Saving file at /new-workspace.jupyterlab-workspace
+[I 12:27:01.197 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:27:37.784 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[I 12:27:49.585 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
