@@ -1038,3 +1038,89 @@ TermSocket.open: Opened 1
 [I 12:45:48.971 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
 [I 12:47:51.402 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
 [I 12:48:15.483 NotebookApp] Saving file at /ML/notebooks/svm/svm.ipynb
+[W 2022-02-11 10:13:04.888 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.888 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.888 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.888 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.889 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.889 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.889 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.889 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-11 10:13:04.889 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-11 10:13:04.889 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.889 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-11 10:13:04.889 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-02-11 10:13:04.899 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-02-11 10:13:04.899 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 10:13:04.912 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 10:13:04.914 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 10:13:04.915 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 10:13:04.915 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 10:13:04.915 NotebookApp] http://jupyter-iamajeet-2dmy-2dfirst-2dbinder-2dcl4reyfi:8888/user/iamajeet-my-first-binder-cl4reyfi/?token=...
+[I 10:13:04.915 NotebookApp]  or http://127.0.0.1:8888/user/iamajeet-my-first-binder-cl4reyfi/?token=...
+[I 10:13:04.915 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:13:04.921 NotebookApp] No web browser found: could not locate runnable browser.
+[I 10:13:04.924 NotebookApp] 302 GET /user/iamajeet-my-first-binder-cl4reyfi/ (10.0.142.14) 0.970000ms
+[I 10:13:06.754 NotebookApp] 302 GET /user/iamajeet-my-first-binder-cl4reyfi/?token=w6OOEpjLTDOo4GVaEdYEGg (165.225.124.90) 0.780000ms
+[I 10:13:07.053 NotebookApp] 301 GET /user/iamajeet-my-first-binder-cl4reyfi/lab/?token=w6OOEpjLTDOo4GVaEdYEGg (165.225.124.90) 1.520000ms
+[I 10:13:09.115 NotebookApp] 301 GET /user/iamajeet-my-first-binder-cl4reyfi/static/favicons/favicon.ico (165.225.124.90) 0.620000ms
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 2022-02-11 10:13:18.187 LabApp] Build is up to date
+[W 10:13:18.758 NotebookApp] 404 GET /user/iamajeet-my-first-binder-cl4reyfi/terminals/websocket/1 (165.225.124.90) 41.490000ms referer=None
+[W 10:13:19.973 NotebookApp] 404 GET /user/iamajeet-my-first-binder-cl4reyfi/terminals/websocket/1 (165.225.124.90) 1.820000ms referer=None
+Exception in callback <TaskStepMethWrapper object at 0x7ff4d21af9d0>()
+handle: <Handle <TaskStepMethWrapper object at 0x7ff4d21af9d0>()>
+Traceback (most recent call last):
+  File "/srv/conda/envs/notebook/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending coro=<RequestHandler._execute() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:1660> cb=[_HandlerDelegate.execute.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:2326]> while another task <Task pending coro=<MappingKernelManager.start_kernel() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py:688]> is being executed.
+Exception in callback <TaskStepMethWrapper object at 0x7ff4d2231dd0>()
+handle: <Handle <TaskStepMethWrapper object at 0x7ff4d2231dd0>()>
+Traceback (most recent call last):
+  File "/srv/conda/envs/notebook/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending coro=<RequestHandler._execute() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:1660> cb=[_HandlerDelegate.execute.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:2326]> while another task <Task pending coro=<MappingKernelManager.start_kernel() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py:688]> is being executed.
+Exception in callback <TaskStepMethWrapper object at 0x7ff4d2240990>()
+handle: <Handle <TaskStepMethWrapper object at 0x7ff4d2240990>()>
+Traceback (most recent call last):
+  File "/srv/conda/envs/notebook/lib/python3.7/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending coro=<RequestHandler._execute() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:1660> cb=[_HandlerDelegate.execute.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:2326]> while another task <Task pending coro=<MappingKernelManager.start_kernel() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/ioloop.py:688]> is being executed.
+/srv/conda/envs/notebook/lib/python3.7/site-packages/jupyter_client/ioloop/manager.py:9: RuntimeWarning: coroutine 'RequestHandler._execute' was never awaited
+  from .restarter import AsyncIOLoopKernelRestarter
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+Task was destroyed but it is pending!
+task: <Task pending coro=<RequestHandler._execute() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:1660> cb=[_HandlerDelegate.execute.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:2326]>
+Task was destroyed but it is pending!
+task: <Task pending coro=<RequestHandler._execute() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:1660> cb=[_HandlerDelegate.execute.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:2326]>
+Task was destroyed but it is pending!
+task: <Task pending coro=<RequestHandler._execute() running at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:1660> cb=[_HandlerDelegate.execute.<locals>.<lambda>() at /srv/conda/envs/notebook/lib/python3.7/site-packages/tornado/web.py:2326]>
+[I 10:13:21.893 NotebookApp] Kernel started: a2dc633e-70ed-4a45-bd33-4a5a99016aeb, name: python3
+[I 10:13:21.893 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 10:13:21.893 NotebookApp] Culling kernels even with connected clients
+[I 10:13:22.057 NotebookApp] Kernel started: fecb47cc-784c-47da-848e-623e3c267fbd, name: python3
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 10:13:24.198 NotebookApp] Starting buffering for fecb47cc-784c-47da-848e-623e3c267fbd:75cae1bb-d5d6-46bd-bfd0-0603f43bce51
+[I 10:13:25.242 NotebookApp] 301 GET /user/iamajeet-my-first-binder-cl4reyfi/static/favicons/favicon-busy-1.ico (165.225.124.90) 0.770000ms
+[I 10:14:03.184 NotebookApp] Creating new directory in /ML/notebooks
+[I 10:14:25.961 NotebookApp] Kernel started: 8c87e6ef-4c2d-451a-a281-f7ecde56fdfd, name: python3
+[I 10:14:35.645 NotebookApp] Kernel started: eb833277-6227-4368-a5c3-fab7723012f9, name: python3
+[I 10:14:39.235 NotebookApp] Starting buffering for 8c87e6ef-4c2d-451a-a281-f7ecde56fdfd:1f037c2b-33c8-4966-94e4-5fe44c89235c
+[I 10:14:45.515 NotebookApp] Starting buffering for a2dc633e-70ed-4a45-bd33-4a5a99016aeb:085e80db-3726-427a-98d5-83f3eb811775
+[I 10:14:47.406 NotebookApp] Starting buffering for eb833277-6227-4368-a5c3-fab7723012f9:976fca99-3e8b-4c3f-9340-cacfdd2aab24
+[I 10:14:56.740 NotebookApp] Creating new notebook in /ML/notebooks/random_forest
+[I 10:14:58.424 NotebookApp] Kernel started: 3be769c3-bfdd-4b7a-855f-2a16817e40b1, name: python3
+[I 10:16:58.092 NotebookApp] Saving file at /ML/notebooks/random_forest/random_forest.ipynb
+[I 10:18:59.649 NotebookApp] Saving file at /ML/notebooks/random_forest/random_forest.ipynb
+[I 10:20:30.303 NotebookApp] Kernel restarted: 3be769c3-bfdd-4b7a-855f-2a16817e40b1
+[I 10:20:30.600 NotebookApp] Starting buffering for 3be769c3-bfdd-4b7a-855f-2a16817e40b1:599677f5-188c-40a1-8bda-577fd2b090a2
+[I 10:20:30.895 NotebookApp] Restoring connection for 3be769c3-bfdd-4b7a-855f-2a16817e40b1:599677f5-188c-40a1-8bda-577fd2b090a2
+[I 10:21:00.403 NotebookApp] Saving file at /ML/notebooks/random_forest/random_forest.ipynb
+[I 10:21:44.411 NotebookApp] Saving file at /ML/notebooks/random_forest/random_forest.ipynb
+[I 10:22:29.105 NotebookApp] Saving file at /ML/notebooks/random_forest/random_forest.ipynb
+[I 10:22:40.112 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
