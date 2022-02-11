@@ -33,9 +33,15 @@ My jupytor notebooks on machine learning and data analysis
 ## By using Support Vector Machine model 
 ![alt text](https://github.com/iamajeet/my-first-binder/blob/main/data/svm.png)
 ### Train SVM classifier using sklearn digits dataset (i.e. from sklearn.datasets import load_digits) and then... [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamajeet/my-first-binder/HEAD?labpath=ML%2Fnotebooks%2Fsvm%2Fsvm.ipynb)  
-* Measure accuracy of your model using different kernels such as rbf and linear.
-* Tune your model further using regularization and gamma parameters and try to come up with highest accurancy score
-* Use 80% of samples as training data size
+* *Measure accuracy of your model using different kernels such as rbf and linear.*
+* *Tune your model further using regularization and gamma parameters and try to come up with highest accurancy score*
+* *Use 80% of samples as training data size*
+
+## By using Random Forest model 
+
+### Use famous iris flower dataset from sklearn.datasets to predict flower species using random forest classifier.  
+* *Measure prediction score using default n_estimators (10)*
+* *Now fine tune your model by changing number of trees in your classifer and tell me what best score you can get using how many trees*  
 
  
     
