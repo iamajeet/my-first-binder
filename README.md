@@ -38,7 +38,7 @@ My jupytor notebooks on machine learning and data analysis
 * *Use 80% of samples as training data size*
 
 ## By using Random Forest model 
-
+![alt text](https://github.com/iamajeet/my-first-binder/blob/main/data/how-random-forest-classifier-work.png)
 ### Use famous iris flower dataset from sklearn.datasets to predict flower species using random forest classifier.  
 * *Measure prediction score using default n_estimators (10)*
 * *Now fine tune your model by changing number of trees in your classifer and tell me what best score you can get using how many trees*  
