@@ -1124,3 +1124,10 @@ task: <Task pending coro=<RequestHandler._execute() running at /srv/conda/envs/n
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[W 10:24:21.895 NotebookApp] Culling 'idle' kernel 'python3' (fecb47cc-784c-47da-848e-623e3c267fbd) with 1 connections due to 655 seconds of inactivity.
+[I 10:24:21.896 NotebookApp] Kernel shutdown: fecb47cc-784c-47da-848e-623e3c267fbd
+[W 10:25:21.894 NotebookApp] Culling 'idle' kernel 'python3' (8c87e6ef-4c2d-451a-a281-f7ecde56fdfd) with 0 connections due to 654 seconds of inactivity.
+[I 10:25:21.895 NotebookApp] Kernel shutdown: 8c87e6ef-4c2d-451a-a281-f7ecde56fdfd
+[W 10:25:22.212 NotebookApp] Culling 'idle' kernel 'python3' (eb833277-6227-4368-a5c3-fab7723012f9) with 0 connections due to 644 seconds of inactivity.
+[I 10:25:22.213 NotebookApp] Kernel shutdown: eb833277-6227-4368-a5c3-fab7723012f9
+[I 10:26:02.592 NotebookApp] Saving file at /ML/notebooks/random_forest/random_forest.ipynb
