@@ -1199,3 +1199,14 @@ TermSocket.open: Opened 1
 [I 12:44:20.059 NotebookApp] Saving file at /ML/notebooks/kmeans/kmeans.ipynb
 [I 12:46:20.682 NotebookApp] Saving file at /ML/notebooks/kmeans/kmeans.ipynb
 [I 12:47:57.465 NotebookApp] Saving file at /ML/notebooks/kmeans/kmeans.ipynb
+[W 12:53:29.230 NotebookApp] Culling 'idle' kernel 'python3' (9d85187e-ea3c-4343-8543-9987462f086b) with 1 connections due to 604 seconds of inactivity.
+[I 12:53:29.231 NotebookApp] Kernel shutdown: 9d85187e-ea3c-4343-8543-9987462f086b
+[W 12:58:29.230 NotebookApp] Culling 'idle' kernel 'python3' (3d151736-61d3-48c9-b66e-78bc04b4137a) with 1 connections due to 641 seconds of inactivity.
+[I 12:58:29.231 NotebookApp] Kernel shutdown: 3d151736-61d3-48c9-b66e-78bc04b4137a
+[I 13:06:51.013 NotebookApp] Creating new directory in /ML/notebooks
+[I 13:07:47.557 NotebookApp] Creating new notebook in /ML/notebooks/knn_classification
+[I 13:07:49.126 NotebookApp] Kernel started: 2f365b62-d59e-496a-b564-39e999dc3815, name: python3
+[I 13:09:49.335 NotebookApp] Saving file at /ML/notebooks/knn_classification/knn.ipynb
+[I 13:11:50.354 NotebookApp] Saving file at /ML/notebooks/knn_classification/knn.ipynb
+[I 13:13:51.355 NotebookApp] Saving file at /ML/notebooks/knn_classification/knn.ipynb
+[I 13:14:29.476 NotebookApp] Saving file at /ML/notebooks/knn_classification/knn.ipynb
