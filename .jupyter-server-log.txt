@@ -1186,3 +1186,16 @@ TermSocket.open: Opened 1
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[W 12:12:29.230 NotebookApp] Culling 'idle' kernel 'python3' (44f6ef81-0522-4b93-8c05-3a00fae64877) with 2 connections due to 625 seconds of inactivity.
+[I 12:12:29.231 NotebookApp] Kernel shutdown: 44f6ef81-0522-4b93-8c05-3a00fae64877
+[W 12:12:29.446 NotebookApp] Culling 'idle' kernel 'python3' (7678489b-2688-444d-962f-181cb6cd8fbe) with 1 connections due to 626 seconds of inactivity.
+[I 12:12:29.447 NotebookApp] Kernel shutdown: 7678489b-2688-444d-962f-181cb6cd8fbe
+[I 12:42:12.744 NotebookApp] Kernel started: 9d85187e-ea3c-4343-8543-9987462f086b, name: python3
+[I 12:42:58.383 NotebookApp] Creating new directory in /ML/notebooks
+[I 12:43:04.807 NotebookApp] Creating new directory in /ML/notebooks/kmeans
+[W 12:43:13.534 NotebookApp] delete /ML/notebooks/kmeans/Untitled Folder
+[I 12:43:19.793 NotebookApp] Creating new notebook in /ML/notebooks/kmeans
+[I 12:43:22.258 NotebookApp] Kernel started: 3d151736-61d3-48c9-b66e-78bc04b4137a, name: python3
+[I 12:44:20.059 NotebookApp] Saving file at /ML/notebooks/kmeans/kmeans.ipynb
+[I 12:46:20.682 NotebookApp] Saving file at /ML/notebooks/kmeans/kmeans.ipynb
+[I 12:47:57.465 NotebookApp] Saving file at /ML/notebooks/kmeans/kmeans.ipynb
