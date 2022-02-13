@@ -1280,3 +1280,12 @@ RuntimeError: Cannot enter into task <Task pending coro=<HTTP1ServerConnection._
 TermSocket.open: 1
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 1
+[W 06:46:00.670 NotebookApp] Culling 'idle' kernel 'python3' (9f79734f-9c9c-4f6b-83f9-1c6002cd2707) with 1 connections due to 627 seconds of inactivity.
+[I 06:46:00.672 NotebookApp] Kernel shutdown: 9f79734f-9c9c-4f6b-83f9-1c6002cd2707
+[I 07:03:36.715 NotebookApp] Creating new directory in /ML/notebooks
+[I 07:03:50.074 NotebookApp] Creating new directory in /ML/notebooks
+[W 07:03:57.846 NotebookApp] delete /ML/notebooks/Untitled Folder
+[I 07:04:16.394 NotebookApp] Creating new notebook in /ML/notebooks/bagging
+[I 07:04:18.232 NotebookApp] Kernel started: b1fa2e01-2f58-4511-b59d-b0da1b2c2a33, name: python3
+[I 07:06:18.959 NotebookApp] Saving file at /ML/notebooks/bagging/bagging.ipynb
+[I 07:09:28.860 NotebookApp] Saving file at /new-workspace.jupyterlab-workspace
